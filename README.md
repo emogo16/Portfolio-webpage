@@ -4,7 +4,7 @@ My first project
 
 #### By _**{Erika Estefania Mogollon}**_
 
-#### _{This portfolio is a about myself.}
+#### _This portfolio is a about myself.
 ## Technologies Used
 
 * _I used Git Bash_
@@ -12,7 +12,7 @@ My first project
 
 ## Description
 
-_{It goes into detail about why I joined Epicodus. In general who am I. It also lists personal details about my life who I am as a person and a picture of my husband, my dog and myself}_
+_It goes into detail about why I joined Epicodus. In general who am I. It also lists personal details about my life who I am as a person and a picture of my husband, my dog and myself_
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ _{It goes into detail about why I joined Epicodus. In general who am I. It also 
 *_The clone this reposiroty to your device_
 *_You can then open it in your local web browser_
 
-_{You do not need to install any additinal software.}_
+_You do not need to install any additinal software._
 
 ## Known Bugs
 
