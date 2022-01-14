@@ -1,6 +1,6 @@
 # Portfolio-webpage
 My first project
-# _{Erika Mogollon}_
+# _Erika Mogollon_
 
 #### By _**{Erika Estefania Mogollon}**_
 
