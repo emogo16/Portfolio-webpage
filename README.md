@@ -4,7 +4,7 @@ My first project
 
 #### By _**Erika Estefania Mogollon**_
 
-#### _This portfolio is a about myself.
+#### This portfolio is a about myself.
 ## Technologies Used
 
 * _I used Git Bash_
