@@ -2,7 +2,7 @@
 My first project
 # _Erika Mogollon_
 
-#### By _**{Erika Estefania Mogollon}**_
+#### By _**Erika Estefania Mogollon**_
 
 #### _This portfolio is a about myself.
 ## Technologies Used
