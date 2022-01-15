@@ -32,6 +32,6 @@ You do not need to install any additinal software.
 
 ## License
 
-_No license in the process of getting that
+No license in the process of getting that
 
 Copyright (c) _1/13/2022_ _Erika Estefania Mogollon_
