@@ -16,10 +16,13 @@ _It goes into detail about why I joined Epicodus. In general who am I. It also l
 
 ## Setup/Installation Requirements
 
-* _It is very easy to open_
-*_First go into your webbrowser_
-*_Then clone this reposiroty to your device_
-*_You can then open it in your local web browser_
+* _It is very easy to open
+
+First go into your webbrowser_
+
+Then clone this reposiroty to your device_
+
+You can then open it in your local web browser_
 
 _You do not need to install any additinal software._
 
