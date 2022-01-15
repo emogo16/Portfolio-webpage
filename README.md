@@ -18,14 +18,14 @@ _It goes into detail about why I joined Epicodus. In general who am I. It also l
 
 * _It is very easy to open_
 *_First go into your webbrowser_
-*_The clone this reposiroty to your device_
+*_Then clone this reposiroty to your device_
 *_You can then open it in your local web browser_
 
 _You do not need to install any additinal software._
 
 ## Known Bugs
 
-* _The link to next to picture does not open up in the process of fixing that!_
+* _There is no none bugs at the moment_
 
 ## License
 
