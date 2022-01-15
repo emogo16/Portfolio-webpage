@@ -12,7 +12,7 @@ My first project
 
 ## Description
 
-_It goes into detail about why I joined Epicodus. In general who am I. It also lists personal details about my life who I am as a person and a picture of my husband, my dog and myself_
+_It goes into detail about why I joined Epicodus. In general who am I. It also lists personal details about my life who I am as a person and a picture of my husband, my dog and myself._
 
 ## Setup/Installation Requirements
 
