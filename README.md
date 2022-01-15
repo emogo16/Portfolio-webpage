@@ -28,7 +28,7 @@ You do not need to install any additinal software.
 
 ## Known Bugs
 
-* _There is no none bugs at the moment_
+There is no none bugs at the moment_
 
 ## License
 
