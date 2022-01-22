@@ -32,6 +32,6 @@ There is no none bugs at the moment_
 
 ## License
 
-No license in the process of getting that
+https://en.wikipedia.org/wiki/MIT_License
 
 Copyright (c) _1/13/2022_ _Erika Estefania Mogollon_
