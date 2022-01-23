@@ -30,7 +30,7 @@ You do not need to install any additinal software.
 
 There is no none bugs at the moment.
 
-## Links to gh_pages
+## Link to gh_pages
 
 [ghpages](https://github.com/emogo16/Portfolio-webpage/deployments/activity_log?environment=github-pages)
 
