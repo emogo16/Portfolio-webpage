@@ -28,7 +28,11 @@ You do not need to install any additinal software.
 
 ## Known Bugs
 
-There is no none bugs at the moment_
+There is no none bugs at the moment.
+
+## Links to gh_pages
+
+[ghpages](https://github.com/emogo16/Portfolio-webpage/deployments/activity_log?environment=github-pages)
 
 ## License
 
