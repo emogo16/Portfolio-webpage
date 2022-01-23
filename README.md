@@ -28,10 +28,22 @@ You do not need to install any additinal software.
 
 ## Known Bugs
 
+<<<<<<< HEAD
 There is no none bugs at the moment_
 
 ## License
 
 No license in the process of getting that
+=======
+There is no none bugs at the moment.
+
+## Link to gh_pages
+
+[ghpages](https://github.com/emogo16/Portfolio-webpage/deployments/activity_log?environment=github-pages)
+
+## License
+
+https://en.wikipedia.org/wiki/MIT_License
+>>>>>>> cc284ec2281aa17561bdebe470c05ea659b10226
 
 Copyright (c) _1/13/2022_ _Erika Estefania Mogollon_
